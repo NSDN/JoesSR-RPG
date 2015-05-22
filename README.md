@@ -1,5 +1,5 @@
 # JoesSR-RPG
-囧囧的奇妙历险 in Chinese.
+囧囧的奇妙历险~完美复仇计划 in Chinese.
 
 # NOTICE:
 RPG Maker VX ACE required.
